@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "35eb6ac59342054b",
+    "type": "split",
+    "children": [
+      {
+        "id": "896b5a763a2a83e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Main/Filecoin.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cd3947156ff126b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e9a067c79334745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b677f908b67cec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27bddc63b4718f67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf74701efc334927",
+    "type": "split",
+    "children": [
+      {
+        "id": "67f2a21f4f1b72c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de088ad8b1a4d36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main/Filecoin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "896b5a763a2a83e4",
+  "lastOpenFiles": [
+    "Main/Filecoin.md",
+    "Main/IPFS.md",
+    "Main/File System.md",
+    "Main/Hello.md",
+    "Main/Another Note.md",
+    "Main/what?.md",
+    "Test.md",
+    "Another Page.md",
+    "Untitled.md"
+  ]
+}
