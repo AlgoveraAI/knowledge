@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main/Storage Pod.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/Storage Pod.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "896b5a763a2a83e4",
   "lastOpenFiles": [
-    "Main/Storage Pod.md",
-    "Main/Filecoin.md",
-    "Main/IPFS.md",
+    "README.md",
+    "Documents/Storage Pod.md",
+    "Documents/IPFS.md",
+    "Documents/Filecoin.md",
     "Main/Algovera.md",
     "Main/File System.md",
     "Main/Hello.md",
     "Main/Another Note.md",
     "Main/what?.md",
-    "Test.md",
-    "Another Page.md"
+    "Test.md"
   ]
 }

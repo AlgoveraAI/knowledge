@@ -1,3 +1,5 @@
+#pod
+
 The [[Algovera]] Storage Pod is an effort to make the user experience for decentralized data storage easy to use, efficient, and modular.
 
 ## First Prototype
